@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.7fcaaa4a.css",
+    "main.js": "/reactPortfolio/static/js/main.880f1599.js",
+    "static/media/viciouscycle.jpeg": "/reactPortfolio/static/media/viciouscycle.d3a9f9825575efcc0f7d.jpeg",
+    "static/media/Gracedance.webp": "/reactPortfolio/static/media/Gracedance.bccc6aa9820ba140329f.webp",
+    "static/media/color.jpeg": "/reactPortfolio/static/media/color.2eb007f27c54b8af88cf.jpeg",
+    "static/media/ferriswheel.jpg": "/reactPortfolio/static/media/ferriswheel.b265cd8bbb6ef153fec3.jpg",
+    "index.html": "/reactPortfolio/index.html",
+    "main.7fcaaa4a.css.map": "/reactPortfolio/static/css/main.7fcaaa4a.css.map",
+    "main.880f1599.js.map": "/reactPortfolio/static/js/main.880f1599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fcaaa4a.css",
+    "static/js/main.880f1599.js"
+  ]
+}
